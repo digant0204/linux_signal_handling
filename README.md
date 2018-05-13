@@ -5,4 +5,4 @@ Signal : Signal is a disturbance to a normal process execuation.
          
          Example: 
                  int *p=0;
-                 printf("*p = %d\n", *p); defrence of zero
+                 printf("*p = %d\n", *p); deference of zero
